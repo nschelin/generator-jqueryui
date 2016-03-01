@@ -1,0 +1,718 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bower",
+				"bowerJson"
+			],
+			[
+				"gen",
+				"generators〔variable〕"
+			],
+			[
+				"ge",
+				"get"
+			],
+			[
+				"new",
+				"newGroceryList"
+			],
+			[
+				"ctrl",
+				"ctrlMain〔variable〕"
+			],
+			[
+				"dele",
+				"deleteGl"
+			],
+			[
+				"delet",
+				"deleteItem"
+			],
+			[
+				"gro",
+				"grocerylists"
+			],
+			[
+				"get",
+				"grocerylists"
+			],
+			[
+				"col",
+				"col-sm-6"
+			],
+			[
+				"groc",
+				"grocerylist"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"btn",
+				"btn-default"
+			],
+			[
+				"glp",
+				"glyphicon"
+			],
+			[
+				"sub",
+				"subTotal"
+			],
+			[
+				"tota",
+				"total-label"
+			],
+			[
+				"tot",
+				"totals-group"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"g",
+				"glyphicon-pencil"
+			],
+			[
+				"gp",
+				"glyphicon"
+			],
+			[
+				"gr",
+				"grocerylist"
+			],
+			[
+				"grocery",
+				"grocerylists"
+			],
+			[
+				"Gro",
+				"GroceryListItem"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 64,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/templates/bowerrc",
+			"settings":
+			{
+				"buffer_size": 50,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 319,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/templates/gitignore",
+			"settings":
+			{
+				"buffer_size": 544,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Sidebar",
+				"Side Bar: Refresh"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pi",
+				"Package Control: Install Package"
+			],
+			[
+				"gist c",
+				"Gist: Create Private Gist"
+			],
+			[
+				"gist op",
+				"Gist: Open Gist"
+			],
+			[
+				"gist",
+				"Gist: Create Private Gist"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"ssjad",
+				"Set Syntax: Jade"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Create Package File"
+			],
+			[
+				"ssbas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/mnt/Users/Users/moulder/Documents/Dropbox/Code/Miscellaneous/yeoman/generator-jqueryui",
+		"/mnt/Users/Users/moulder/Documents/Dropbox/Code/Miscellaneous/yeoman/generator-jqueryui/app/templates",
+		"/mnt/Users/Users/moulder/Documents/Dropbox/Code/Miscellaneous/yeoman/generator-jqueryui/app/templates/css",
+		"/mnt/Users/Users/moulder/Documents/Dropbox/Code/Miscellaneous/yeoman/generator-jqueryui/app/templates/img",
+		"/mnt/Users/Users/moulder/Documents/Dropbox/Code/Miscellaneous/yeoman/generator-jqueryui/app/templates/js"
+	],
+	"file_history":
+	[
+		"/mnt/Users/Users/moulder/Documents/Dropbox/Code/Miscellaneous/yeoman/generator-jqueryui/.gitignore",
+		"/mnt/Users/Users/moulder/Documents/Dropbox/Code/Miscellaneous/yeoman/generator-jqueryui/index.js",
+		"/home/moulder/.config/sublime-text-3/Packages/AdvancedNewFile/README.md",
+		"/home/moulder/.config/sublime-text-3/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+		"/home/moulder/.config/sublime-text-3/Packages/User/AdvancedNewFile.sublime-settings",
+		"/mnt/Users/Users/moulder/Documents/Dropbox/Code/Miscellaneous/yeoman/generator-jqueryui/generator-jqueryui.sublime-project",
+		"/mnt/Users/Users/moulder/Documents/Dropbox/Code/NodeProjects/GroceryListMean/js/app.js",
+		"/mnt/Users/Users/moulder/Documents/Dropbox/Code/NodeProjects/GroceryListMean/routes/index.js",
+		"/home/moulder/.config/sublime-text-3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/mnt/Users/Users/moulder/Documents/Dropbox/Code/NodeProjects/GroceryListMean/node_modules/express/lib/router/index.js",
+		"/home/moulder/.config/sublime-text-3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/mnt/Users/Users/moulder/Documents/Dropbox/Code/NodeProjects/GroceryListMean/routes/api.js",
+		"/Users/moulder/Documents/Dropbox/Code/NodeProjects/GroceryListMean/routes/api.js",
+		"/Users/moulder/Documents/Dropbox/Code/NodeProjects/GroceryListMean/app/controllers/index.js",
+		"/Users/moulder/Documents/Dropbox/Code/NodeProjects/GroceryListMean/views/partials/edit.jade",
+		"/Users/moulder/Documents/Dropbox/Code/NodeProjects/GroceryListMean/js/controllers/neweditgl.js",
+		"/Users/moulder/Documents/Dropbox/Code/NodeProjects/GroceryListMean/routes/items.js",
+		"/Users/moulder/Documents/Dropbox/Code/NodeProjects/GroceryListMean/views/layout.jade",
+		"/Users/moulder/Documents/Dropbox/Code/NodeProjects/GroceryListMean/js/app.js",
+		"/Users/moulder/Documents/Dropbox/Code/NodeProjects/GroceryListMean/routes/index.js",
+		"/Users/moulder/Documents/Dropbox/Code/NodeProjects/GroceryListMean/app/controllers/newGroceryList.js",
+		"/Users/moulder/Documents/Dropbox/Code/NodeProjects/GroceryListMean/views/partials/newedit.jade",
+		"/Users/moulder/Documents/Dropbox/Code/NodeProjects/GroceryListMean/app.js",
+		"/Users/moulder/Documents/Dropbox/Code/NodeProjects/GroceryListMean/package.json",
+		"/Users/moulder/Documents/Dropbox/Code/NodeProjects/GroceryListMean/controllers/index.js",
+		"/Users/moulder/Documents/Dropbox/Code/NodeProjects/GroceryListMean/js/main.js",
+		"/Users/moulder/Documents/Dropbox/Code/NodeProjects/GroceryListMean/js/controllers/home.js",
+		"/Users/moulder/Documents/Dropbox/Code/NodeProjects/GroceryListMean/js/services/resources.js",
+		"/Users/moulder/Documents/Dropbox/Code/NodeProjects/GroceryListMean/js/controllers/items.js",
+		"/Users/moulder/Documents/Dropbox/Code/NodeProjects/GroceryListMean/views/partials/index.jade",
+		"/mnt/Users/Users/moulder/Documents/Dropbox/Code/NodeProjects/StudyLearning/FileUploadExample/index.js",
+		"/mnt/Users/Users/moulder/Documents/Dropbox/Code/NodeProjects/GroceryListMean/node_modules/express/node_modules/proxy-addr/node_modules/forwarded/package (mmac's conflicted copy 2015-08-26).json",
+		"/mnt/Users/Users/moulder/Documents/Dropbox/Code/NodeProjects/GroceryListMean/controllers/newGroceryList.js",
+		"/home/moulder/.config/sublime-text-3/Packages/User/Gist.sublime-settings",
+		"/mnt/Users/Users/moulder/Documents/Dropbox/Code/NodeProjects/GroceryListMean/img/calendar-blue.png",
+		"/mnt/Users/Users/moulder/Documents/Dropbox/Code/NodeProjects/GroceryListMean/views/partials/new.jade",
+		"/mnt/Users/Users/moulder/Documents/Dropbox/Code/NodeProjects/GroceryListMean/readme.md",
+		"/mnt/Users/Users/moulder/Documents/Dropbox/Code/NodeProjects/GroceryListMean/js/main.js",
+		"/mnt/Users/Users/moulder/Documents/MP3TrackList.9.txt",
+		"/mnt/Users/Users/moulder/Documents/FloppyDriveConsolidation/bintree/possible grade for CSS342_12_14_04.txt",
+		"/mnt/Users/Users/moulder/Documents/FloppyDriveConsolidation/bintree/bag6.h",
+		"/mnt/Users/Users/moulder/Documents/FloppyDriveConsolidation/bintree/bagexam.cpp",
+		"/media/moulder/disk/Project4.cpp",
+		"/mnt/Users/Users/moulder/Documents/Dropbox/Code/NodeProjects/GroceryListMean/js/utilities.js",
+		"/mnt/Users/Users/moulder/Documents/Dropbox/Code/NodeProjects/GroceryListMean/css/styles.css",
+		"/mnt/Users/Users/moulder/Documents/Dropbox/Code/NodeProjects/GroceryListMean/views/layout.jade",
+		"/mnt/Users/Users/moulder/Documents/Dropbox/Code/NodeProjects/GroceryListMean/js/filters/percentage.js",
+		"/mnt/Users/Users/moulder/Documents/Dropbox/Code/NodeProjects/GroceryListMean/app.js",
+		"/mnt/Users/Users/moulder/Documents/Dropbox/Code/NodeProjects/GroceryListMean/views/partials/item-index.jade",
+		"/mnt/Users/Users/moulder/Documents/Dropbox/Code/NodeProjects/GroceryListMean/controllers/index.js",
+		"/mnt/Users/Users/moulder/Documents/Dropbox/Code/NodeProjects/GroceryListMean/controllers/item-index.js",
+		"/mnt/Users/Users/moulder/Documents/Dropbox/Code/NodeProjects/GroceryListMean/views/partials/index.jade",
+		"/mnt/Users/Users/moulder/Documents/Dropbox/Code/NodeProjects/GroceryListMean/views/partials/edit.jade",
+		"/mnt/Users/Users/moulder/Documents/Dropbox/Code/NodeProjects/GroceryListMean/views/index.jade",
+		"/mnt/Users/Users/moulder/Documents/Dropbox/Code/NodeProjects/GroceryListMean/views/partials/item-edit.jade",
+		"/mnt/Users/Users/moulder/Documents/Dropbox/Code/NodeProjects/GroceryListMean/routes/items.js",
+		"/mnt/Users/Users/moulder/Documents/Dropbox/Code/NodeProjects/GroceryListMean/controllers/main.js",
+		"/home/moulder/.config/sublime-text-3/Packages/AdvancedNewFile/Default (Linux).sublime-keymap",
+		"/mnt/Users/Users/moulder/Documents/Dropbox/Code/NodeProjects/GroceryListMean/package.json",
+		"/Users/moulder/Documents/Projects/GroceryListNodeJs/views/createGroceryList.jade",
+		"/Users/moulder/Documents/Projects/GroceryListNodeJs/server.js",
+		"/Users/moulder/Documents/Projects/GroceryListNodeJs/views/editGroceryList.jade",
+		"/Users/moulder/Documents/Projects/GroceryListNodeJs/js/editGroceryList.js",
+		"/Users/moulder/Documents/Projects/GroceryListNodeJs/js/createGroceryList.js",
+		"/Users/moulder/Documents/Projects/GroceryListNodeJs/views/index.jade",
+		"/Users/moulder/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/moulder/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/mnt/Users/Users/moulder/Documents/nodejs/GroceryListNodeJs/views/index.jade",
+		"/mnt/Users/Users/moulder/Documents/nodejs/GroceryListNodeJs/server.js",
+		"/mnt/Users/Users/moulder/Documents/nodejs/GroceryListNodeJs/package.json",
+		"/mnt/Users/Users/moulder/Documents/nodejs/GroceryListNodeJs/views/layout.jade",
+		"/mnt/Users/Users/moulder/Documents/nodejs/GroceryListNodeJs/views/index.js",
+		"/mnt/Users/Users/moulder/Documents/nodejs/GroceryListNodeJs/views/createGroceryList.js",
+		"/mnt/Users/Users/moulder/Documents/nodejs/GroceryListNodeJs/js/index.js",
+		"/mnt/Users/Users/moulder/Documents/nodejs/GroceryListNodeJs/grocerylistnodejs.sublime-project",
+		"/mnt/Users/Users/moulder/Documents/nodejs/projectSite/views/index.jade",
+		"/mnt/Users/Users/moulder/Documents/nodejs/projectSite/views/layout.jade",
+		"/mnt/Users/Users/moulder/Documents/nodejs/projectSite/populate.js",
+		"/mnt/Users/Users/moulder/Documents/nodejs/projectSite/server.js",
+		"/mnt/Users/Users/moulder/Documents/lynnwood.rec.center.txt",
+		"/mnt/Users/Users/moulder/Documents/nodejs/projectSite/package.json",
+		"/home/moulder/Documents/scripts/close_vms.sh",
+		"/home/moulder/Documents/scripts/K99.stop_vms.sh",
+		"/home/moulder/Documents/scripts/close_vms",
+		"/home/moulder/Documents/scripts/launch_vms",
+		"/home/moulder/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/moulder/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"/save",
+			"getProducts",
+			"edit",
+			"addItem",
+			"grocyerListService",
+			"filter",
+			"delete",
+			"saveitem",
+			"buttn",
+			"/items",
+			"Item",
+			"item",
+			"Item",
+			"item",
+			"Item",
+			"item",
+			"product",
+			"products",
+			"gear",
+			"Edit",
+			"grocerylist",
+			".col-lg-3",
+			";\")",
+			"ctrl+tab",
+			"tab"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 64,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								64,
+								64
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/templates/bowerrc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 50,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								50,
+								50
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "package.json",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 319,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								318,
+								318
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/templates/gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 544,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								544,
+								544
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "generator-jqueryui.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"newgro",
+				"app/controllers/newGroceryList.js"
+			],
+			[
+				"newedig",
+				"js/controllers/neweditgl.js"
+			],
+			[
+				"items.j",
+				"routes/items.js"
+			],
+			[
+				"products",
+				"node_modules/express/node_modules/proxy-addr/node_modules/forwarded/package (mmac's conflicted copy 2015-08-26).json"
+			],
+			[
+				"main",
+				"js/main.js"
+			],
+			[
+				"n",
+				"js/controllers/neweditgl.js"
+			],
+			[
+				"",
+				"views/layout.jade"
+			],
+			[
+				"home",
+				"js/controllers/home.js"
+			],
+			[
+				"new",
+				"js/controllers/neweditgl.js"
+			],
+			[
+				"neweditg",
+				"js/controllers/neweditgl.js"
+			],
+			[
+				"newedit.jade",
+				"views/partials/newedit.jade"
+			],
+			[
+				"layo",
+				"views/layout.jade"
+			],
+			[
+				"styles",
+				"css/styles.css"
+			],
+			[
+				"read",
+				"readme.md"
+			],
+			[
+				"inde",
+				"views/partials/index.jade"
+			],
+			[
+				"index",
+				"views/partials/index.jade"
+			],
+			[
+				"in",
+				"views/index.jade"
+			],
+			[
+				"ind",
+				"views/partials/index.jade"
+			],
+			[
+				"item-in",
+				"views/partials/item-index.jade"
+			],
+			[
+				"css",
+				"css/styles.css"
+			],
+			[
+				"api",
+				"routes/api.js"
+			],
+			[
+				"mai",
+				"js/main.js"
+			],
+			[
+				"lay",
+				"views/layout.jade"
+			],
+			[
+				"partial/in",
+				"views/partials/index.jade"
+			],
+			[
+				"layou",
+				"views/layout.jade"
+			],
+			[
+				"parti",
+				"views/partials/index.jade"
+			],
+			[
+				"main.js",
+				"js/main.js"
+			],
+			[
+				"app.j",
+				"app.js"
+			],
+			[
+				"ser",
+				"server.js"
+			],
+			[
+				"create",
+				"views/createGroceryList.jade"
+			],
+			[
+				"edit",
+				"views/editGroceryList.jade"
+			],
+			[
+				"cre",
+				"js/createGroceryList.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
