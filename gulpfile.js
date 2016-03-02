@@ -1,7 +1,6 @@
 var gulp = require('gulp');
 var args = require('yargs').argv;
 var config = require('./gulp.config')();
-console.log(config.alljs);
 
 // loads plugins as needed w/o having to require directly
 // lazily loads as necessary
